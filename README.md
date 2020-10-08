@@ -1,4 +1,4 @@
-### Hi world! 👋
+### Hello world! 👋
 
 ### I'm [Deborah Ohanne!](https://instagram.com/deborahohanne)
  
