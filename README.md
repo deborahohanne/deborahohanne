@@ -25,20 +25,8 @@
 </div>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/deborahohanne/Xamarin.Forms.NeoControls">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipebaltazar&hide=Batchfile" />
-</a>
-<a href="https://github.com/deborahohanne/Xamarin.Forms.NeoControls">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=felipebaltazar&show_icons=true&line_height=27" alt="Felipe's github stats" />
-</a>
-
-<a href="https://github.com/deborahohanne/SkiaSharp.Forms.Xaml">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=SkiaSharp.Forms.Xaml" />
-</a>    
-<a href="https://github.com/deborahohanne/Xamarin.Forms.NeoControls">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=felipebaltazar&repo=Xamarin.Forms.NeoControls" />
-</a>
 <br />
 <br />
 <div align="center">
