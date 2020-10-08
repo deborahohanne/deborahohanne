@@ -38,4 +38,4 @@ I am currently a Junior AI Programmer Analyst on the Stefanini team.
 
 </div>
 
-## Bye, may the force be with you! 
+### Bye, may the force be with you! 
