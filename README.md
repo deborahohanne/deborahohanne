@@ -6,7 +6,7 @@ My name is Deborah Ohanne, I'm 24 years old, I live in Brasilia in Brazil.
 I am a student of Computer Science and derivatives, I am extremely in love with the world of technology, which made me pursue this career.
 My main interests in the area are AI, Machine Learning, the Python programming language is also part of this set.
 I am currently a Junior AI Programmer Analyst on the Stefanini team.
-
+<br/>
 <div align="center">
 
 <i>You find me on social networks:</i><br>
