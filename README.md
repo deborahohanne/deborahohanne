@@ -24,7 +24,8 @@
 
 </div>
 <br/>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=deborahohanne&show_icons=true&hide_border=true)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deborahohanne)](https://github.com/deborahohanne/github-readme-stats)
 
 <a href="https://github.com/deborahohanne/Xamarin.Forms.NeoControls">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=felipebaltazar&hide=Batchfile" />
