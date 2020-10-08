@@ -37,3 +37,5 @@ I am currently a Junior AI Programmer Analyst on the Stefanini team.
 <div align="center">
 
 </div>
+
+## Bye, may the force be with you! 
