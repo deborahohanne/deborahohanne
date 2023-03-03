@@ -15,14 +15,6 @@ I am currently a Python Development on the ISH team.
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://www.facebook.com/deborahohanne" target="_blank">
-	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
-<a href="https://twitter.com/deborahohanne" target="_blank">
-	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
-</a>
-
 </div>
 <br/>
 
