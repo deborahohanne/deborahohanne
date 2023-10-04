@@ -2,10 +2,10 @@
 
 ### I'm [Deborah Ohanne!](https://instagram.com/deborahohanne) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="29px">  
 
-My name is Deborah Ohanne, I'm 25 years old, I live in Brasilia in Brazil.
+My name is Deborah Ohanne, I'm 27 years old, I live in Brasilia in Brazil.
 I am a student of Computer Science and derivatives, I am extremely in love with the world of technology, which made me pursue this career.
 My main interests in the area are AI, Machine Learning, the Python programming language is also part of this set.
-I am currently a Python Development on the ISH team.
+I am currently a Python Development on the Stone Co team.
 <br/>
 <div align="center">
 
